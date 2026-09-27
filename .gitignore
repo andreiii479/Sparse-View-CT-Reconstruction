@@ -1,0 +1,23 @@
+# Generated output
+submission.zip
+results/
+submissions/
+*.zip
+
+# MATLAB / Octave
+*.asv
+*.m~
+octave-workspace
+octave-core
+.octave_hist
+
+# Competition data (mounted by the Makefile; not yours to publish)
+data/competition/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
